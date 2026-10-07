@@ -1,0 +1,51 @@
+Employee_ID,Name,Gender,Department,Position,Manager,Hire_Date,Employment_Type,Office,Email,Phone,Salary,Performance_Rating,Skills,Status
+1001,Employee 1,Female,Customer Service,Support Specialist,Rana Ali,2021-02-11,Full-Time,Cairo,employee1@smarthr.com,0101000001,20000,Very Good,"Communication, Python, TensorFlow",Active
+1002,Employee 2,Male,Sales,Sales Executive,Dina Sherif,2025-02-17,Part-Time,Smart Village,employee2@smarthr.com,0101000002,19000,Good,"Python, LangChain, PyTorch",Active
+1003,Employee 3,Male,Cyber Security,SOC Engineer,Yasser Adel,2022-12-24,Full-Time,Alexandria,employee3@smarthr.com,0101000003,33000,Excellent,"Power BI, PyTorch, Linux",Active
+1004,Employee 4,Male,Marketing,Marketing Specialist,Laila Adel,2023-11-09,Full-Time,Alexandria,employee4@smarthr.com,0101000004,14000,Very Good,"Communication, PyTorch, TensorFlow",Active
+1005,Employee 5,Female,Finance,Accountant,Khaled Nabil,2023-03-26,Full-Time,Alexandria,employee5@smarthr.com,0101000005,32000,Excellent,"Linux, TensorFlow, LangChain",Active
+1006,Employee 6,Female,Marketing,Marketing Specialist,Laila Adel,2022-06-21,Full-Time,Cairo,employee6@smarthr.com,0101000006,29000,Very Good,"LangChain, Excel, SQL",Active
+1007,Employee 7,Male,IT,IT Support Engineer,Mahmoud Salah,2021-07-05,Part-Time,Cairo,employee7@smarthr.com,0101000007,28000,Very Good,"PyTorch, Networking, LangChain",Active
+1008,Employee 8,Male,Sales,Sales Executive,Dina Sherif,2022-09-28,Full-Time,Cairo,employee8@smarthr.com,0101000008,28000,Excellent,"PyTorch, Excel, LangChain",Active
+1009,Employee 9,Female,Finance,Financial Analyst,Khaled Nabil,2023-04-23,Full-Time,Smart Village,employee9@smarthr.com,0101000009,18000,Excellent,"Python, Excel, Linux",Active
+1010,Employee 10,Female,Marketing,Content Creator,Laila Adel,2025-05-27,Part-Time,Alexandria,employee10@smarthr.com,0101000010,15000,Excellent,"PyTorch, Python, SQL",Active
+1011,Employee 11,Male,HR,HR Specialist,Sara Ibrahim,2021-03-18,Full-Time,Cairo,employee11@smarthr.com,0101000011,33000,Very Good,"TensorFlow, Communication, Linux",Active
+1012,Employee 12,Female,IT,System Administrator,Mahmoud Salah,2023-06-13,Part-Time,Alexandria,employee12@smarthr.com,0101000012,22000,Excellent,"TensorFlow, PyTorch, Networking",Active
+1013,Employee 13,Female,HR,HR Manager,Sara Ibrahim,2024-08-19,Full-Time,Cairo,employee13@smarthr.com,0101000013,26000,Very Good,"Python, LangChain, Networking",Active
+1014,Employee 14,Female,IT,System Administrator,Mahmoud Salah,2024-06-05,Part-Time,Alexandria,employee14@smarthr.com,0101000014,16000,Good,"Linux, PyTorch, Excel",Active
+1015,Employee 15,Male,Finance,Accountant,Khaled Nabil,2023-03-22,Part-Time,Smart Village,employee15@smarthr.com,0101000015,33000,Excellent,"Python, Networking, PyTorch",Active
+1016,Employee 16,Male,HR,HR Manager,Sara Ibrahim,2023-08-01,Part-Time,Smart Village,employee16@smarthr.com,0101000016,25000,Good,"Excel, PyTorch, TensorFlow",Active
+1017,Employee 17,Male,HR,HR Manager,Sara Ibrahim,2021-01-24,Part-Time,Cairo,employee17@smarthr.com,0101000017,24000,Very Good,"LangChain, PyTorch, SQL",Active
+1018,Employee 18,Female,Marketing,Content Creator,Laila Adel,2022-05-13,Full-Time,Smart Village,employee18@smarthr.com,0101000018,25000,Very Good,"Python, SQL, Networking",Active
+1019,Employee 19,Male,Marketing,Content Creator,Laila Adel,2024-07-20,Full-Time,Smart Village,employee19@smarthr.com,0101000019,18000,Excellent,"Power BI, Python, Linux",Active
+1020,Employee 20,Male,Marketing,Marketing Specialist,Laila Adel,2022-09-17,Part-Time,Alexandria,employee20@smarthr.com,0101000020,28000,Good,"Linux, Excel, LangChain",Active
+1021,Employee 21,Female,Cyber Security,Security Analyst,Yasser Adel,2021-05-26,Part-Time,Cairo,employee21@smarthr.com,0101000021,18000,Excellent,"TensorFlow, Power BI, PyTorch",Active
+1022,Employee 22,Female,Finance,Financial Analyst,Khaled Nabil,2021-01-12,Part-Time,Alexandria,employee22@smarthr.com,0101000022,23000,Very Good,"Communication, PyTorch, Power BI",Active
+1023,Employee 23,Female,Marketing,Content Creator,Laila Adel,2022-01-19,Full-Time,Cairo,employee23@smarthr.com,0101000023,32000,Very Good,"Power BI, PyTorch, LangChain",Active
+1024,Employee 24,Female,IT,IT Support Engineer,Mahmoud Salah,2022-01-13,Full-Time,Cairo,employee24@smarthr.com,0101000024,15000,Excellent,"Power BI, Communication, TensorFlow",Active
+1025,Employee 25,Male,IT,System Administrator,Mahmoud Salah,2023-01-23,Part-Time,Alexandria,employee25@smarthr.com,0101000025,24000,Excellent,"LangChain, Linux, Networking",Active
+1026,Employee 26,Female,IT,System Administrator,Mahmoud Salah,2023-05-22,Full-Time,Alexandria,employee26@smarthr.com,0101000026,13000,Very Good,"TensorFlow, LangChain, Power BI",Active
+1027,Employee 27,Male,Sales,Sales Executive,Dina Sherif,2023-04-03,Full-Time,Smart Village,employee27@smarthr.com,0101000027,14000,Very Good,"TensorFlow, Networking, LangChain",Active
+1028,Employee 28,Male,HR,HR Specialist,Sara Ibrahim,2024-02-27,Part-Time,Cairo,employee28@smarthr.com,0101000028,29000,Good,"LangChain, PyTorch, SQL",Active
+1029,Employee 29,Female,Customer Service,Support Specialist,Rana Ali,2025-07-12,Full-Time,Cairo,employee29@smarthr.com,0101000029,17000,Good,"Power BI, Networking, SQL",Active
+1030,Employee 30,Female,AI,AI Engineer,Omar Hassan,2021-06-01,Part-Time,Smart Village,employee30@smarthr.com,0101000030,19000,Good,"Linux, Communication, Power BI",Active
+1031,Employee 31,Male,Cyber Security,SOC Engineer,Yasser Adel,2024-03-05,Full-Time,Alexandria,employee31@smarthr.com,0101000031,12000,Good,"Excel, Power BI, Linux",Active
+1032,Employee 32,Female,HR,HR Manager,Sara Ibrahim,2021-08-15,Full-Time,Smart Village,employee32@smarthr.com,0101000032,35000,Excellent,"Python, Linux, Excel",Active
+1033,Employee 33,Female,AI,Data Scientist,Omar Hassan,2024-10-24,Full-Time,Smart Village,employee33@smarthr.com,0101000033,19000,Very Good,"TensorFlow, Power BI, Linux",Active
+1034,Employee 34,Female,AI,ML Engineer,Omar Hassan,2024-10-13,Part-Time,Cairo,employee34@smarthr.com,0101000034,26000,Excellent,"Networking, TensorFlow, LangChain",Active
+1035,Employee 35,Female,Customer Service,Support Specialist,Rana Ali,2024-01-11,Full-Time,Smart Village,employee35@smarthr.com,0101000035,22000,Excellent,"Power BI, LangChain, Linux",Active
+1036,Employee 36,Female,IT,IT Support Engineer,Mahmoud Salah,2025-06-23,Full-Time,Alexandria,employee36@smarthr.com,0101000036,21000,Good,"Communication, Power BI, Linux",Active
+1037,Employee 37,Male,Marketing,Content Creator,Laila Adel,2023-12-06,Full-Time,Smart Village,employee37@smarthr.com,0101000037,24000,Excellent,"LangChain, Networking, Excel",Active
+1038,Employee 38,Male,Customer Service,Support Specialist,Rana Ali,2025-08-07,Part-Time,Alexandria,employee38@smarthr.com,0101000038,31000,Good,"Python, Networking, TensorFlow",Active
+1039,Employee 39,Male,Finance,Accountant,Khaled Nabil,2025-11-26,Full-Time,Smart Village,employee39@smarthr.com,0101000039,32000,Excellent,"Power BI, PyTorch, SQL",Active
+1040,Employee 40,Male,HR,HR Specialist,Sara Ibrahim,2022-01-15,Full-Time,Alexandria,employee40@smarthr.com,0101000040,21000,Excellent,"SQL, PyTorch, Python",Active
+1041,Employee 41,Male,IT,IT Support Engineer,Mahmoud Salah,2021-05-21,Full-Time,Smart Village,employee41@smarthr.com,0101000041,28000,Very Good,"Networking, PyTorch, TensorFlow",Active
+1042,Employee 42,Female,Finance,Accountant,Khaled Nabil,2025-05-15,Part-Time,Alexandria,employee42@smarthr.com,0101000042,33000,Excellent,"Linux, Communication, TensorFlow",Active
+1043,Employee 43,Male,Marketing,Marketing Specialist,Laila Adel,2022-02-14,Part-Time,Alexandria,employee43@smarthr.com,0101000043,31000,Excellent,"Excel, TensorFlow, SQL",Active
+1044,Employee 44,Female,Finance,Financial Analyst,Khaled Nabil,2025-09-08,Full-Time,Cairo,employee44@smarthr.com,0101000044,32000,Excellent,"SQL, Python, PyTorch",Active
+1045,Employee 45,Female,Finance,Financial Analyst,Khaled Nabil,2025-03-03,Full-Time,Alexandria,employee45@smarthr.com,0101000045,19000,Very Good,"SQL, TensorFlow, Networking",Active
+1046,Employee 46,Male,Sales,Sales Manager,Dina Sherif,2021-04-16,Full-Time,Smart Village,employee46@smarthr.com,0101000046,12000,Excellent,"Python, Networking, Power BI",Active
+1047,Employee 47,Female,Finance,Accountant,Khaled Nabil,2024-05-01,Part-Time,Cairo,employee47@smarthr.com,0101000047,26000,Very Good,"Power BI, TensorFlow, PyTorch",Active
+1048,Employee 48,Female,Cyber Security,SOC Engineer,Yasser Adel,2025-01-07,Part-Time,Alexandria,employee48@smarthr.com,0101000048,33000,Excellent,"TensorFlow, Networking, PyTorch",Active
+1049,Employee 49,Female,HR,HR Manager,Sara Ibrahim,2025-01-18,Part-Time,Alexandria,employee49@smarthr.com,0101000049,16000,Good,"Python, SQL, Networking",Active
+1050,Employee 50,Female,Marketing,Content Creator,Laila Adel,2022-11-13,Full-Time,Cairo,employee50@smarthr.com,0101000050,13000,Very Good,"TensorFlow, Excel, LangChain",Active
